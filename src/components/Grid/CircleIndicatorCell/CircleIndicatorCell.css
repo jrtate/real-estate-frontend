@@ -1,0 +1,17 @@
+.indicatorCircle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.greenFill {
+    background-color: rgb(117, 194, 130);
+}
+
+.yellowFill {
+    background-color: rgb(255, 208, 86);
+}
+
+.redFill {
+    background-color: rgb(241, 126, 126);
+}

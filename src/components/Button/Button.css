@@ -1,0 +1,18 @@
+.button {
+    text-transform: uppercase;
+    width: 9rem;
+    font-size: 0.6rem;
+    font-weight: 700;
+    background-image: linear-gradient(122deg, rgb(128, 74, 216) 0%, rgb(98, 75, 217) 100%);
+    color: rgb(255, 255, 255);
+    border-radius: 5rem;
+    padding: 0.7rem;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 300ms ease-in-out 0s;
+}
+
+.button:hover {
+    box-shadow: 0 0 2px 1px  rgb(189, 158, 240);
+}
